@@ -9,7 +9,7 @@ body {
     align-items: center;
     height: 100vh;
 }
- 
+  
 /* Контейнер для повідомлення */
 .message-container {
     background: rgb(116, 169, 114);
